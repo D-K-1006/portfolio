@@ -1,0 +1,242 @@
+body {
+    background-color: rgb(226, 226, 226);
+    height: 1000px;
+    width: 100%;
+    margin: 0;
+}
+header {
+    width: 100%;
+    height: 130px;
+}
+.header-cover {
+    width: 1030px;
+    height: 130px;
+    margin: 0 auto;
+}
+header h1 {
+    float: left;
+    height: 48px;
+    width: 150px;
+    line-height: 40px;
+    margin-top: 20px;
+    color: #84634d;
+    font-weight: 100;
+}
+.br::before {
+        content: "\A" ;
+        white-space: pre ;
+}
+header a {
+    color: #84634d;
+    text-decoration: none;
+}
+header a:hover {
+    color: yellow;
+}
+.header-right ur {
+    float: left;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 110px;
+    list-style: none;
+    margin-top: 25px;
+}
+.header-i {
+    font-size: 50px;
+}
+.main-one img {
+    height: 500px;
+    width: 1000px;
+}
+.main-one {
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+.main-two {
+    text-align: center;
+}
+.main-two h1 {
+    color: #84634d;
+    font-size: 60px;
+}
+.two-left img{
+    height: 500px;
+    width: 375px;
+}
+.two-left {
+    height: 500px;
+    width: 375px;
+}
+.two-right {
+    text-align: left;
+    width: 625px;
+    margin-left: 70px;
+    height: 280px;
+    margin-top: 110px;
+}
+.two-bottom {
+    display: flex;
+    width: 900px;
+    margin: 0 auto;
+}
+.one-content  {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+.one-content h1 {
+    color: white;
+}
+.main-three {
+    text-align: center;
+}
+.hobby-top h1 {
+    color: #84634d;
+    font-size: 60px;
+}
+.two-top {
+    margin-top: 100px;
+}
+.main-three img {
+    width: 300px;
+    height: 200px;
+}
+.hobby-bottom {
+    display: flex;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+.hobby-one {
+    margin-right: 50px;
+}
+.hobby-three {
+    margin-left: 50px;
+}
+.hobby-top {
+    margin-top: 100px;
+}
+.for-top h1 {
+    color: #84634d;
+    font-size: 60px;
+    margin-bottom: 0;
+}
+.for-top p {
+    margin: 0;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.main-for {
+    text-align: center;
+}
+.for-top {
+    margin-top: 100px;
+}
+.for-i {
+    font-size: 100px;
+}
+.fa-html5 {
+    color: #4c6ef5;
+}
+.fa-css3-alt {
+    color: #4c6ef5;
+}
+.main-five {
+    text-align: center;
+}
+.five-top h1 {
+    color: #84634d;
+    font-size: 60px;   
+    margin-bottom: 0;
+}
+.five-top {
+    margin-top: 100px;
+}
+.five-bottom img {
+    height: 300px;
+    width: 500px;
+    border-radius: 30px;
+}
+.five-a:hover {
+    opacity: 0.5;
+}
+.five-bottom p {
+    width: 500px;
+    margin: 0 auto;
+}
+.five-top p {
+    font-size: 20px;
+    margin-top: 0;
+}.five-bottom {
+    margin-top: 50px;
+}
+.main-six {
+    text-align: center;
+}
+.six-top {
+    color: #84634d;
+    font-size: 60px;  
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+.main-six input {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+    height: 40px;
+
+}
+.six-bottom {
+    text-align: center;
+}
+.six-bottom h1 {
+    font-size: 15px;
+    margin: 0;
+    font-weight: 200;
+}
+.six-bottom textarea {
+    height: 150px;
+    width: 400px;
+    border-radius: 5px;
+}
+.six-bottom div {
+    margin-top: 15px;
+}
+.main-six button {
+    height: 45px;
+    width: 200px;
+    background-color: rgba(35, 172, 149, 0.904);
+    border-radius: 5px;
+    padding: 0;
+    border: 1px;
+    margin-top: 15px;
+}
+.sns {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.sns-i {
+    font-size: 50px;
+    color: rgb(121, 11, 194);
+}
+.fa-facebook-f {
+    color: #1a0dab;
+    margin-left: 50px;
+}
+.fa-github {
+    color: black;
+    margin-left: 50px;
+}
+footer {
+    border-top: 1px solid white;
+    height: 100px;
+}
+.sns-i:hover {
+    opacity: 0.5;
+}
+footer p {
+    text-align: center;
+    margin-top: 40px;
+}
